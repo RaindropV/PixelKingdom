@@ -1,2 +1,2 @@
-# PixelKingdom
-这里将会列出我为PixelKingdom写的一些插件内容.
+# PixelKingdom CS:GO
+这里是PixelKingdom CS:GO插件仓库,所有更新记录都将写在这上面
